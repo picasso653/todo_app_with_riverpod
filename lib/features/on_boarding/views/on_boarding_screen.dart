@@ -6,7 +6,7 @@ class OnBoardingScreen extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(),
+      body: Image.asset("assets/images/images/todo.png"),
     );
   }
 }
